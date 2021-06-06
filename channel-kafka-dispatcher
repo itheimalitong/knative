@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka/cmd/channel/consolidated/dispatcher@sha256:b0b457fa545caf5e0bde931ec5d8c4db5e595e80706d7351533f84ae502f6dad
